@@ -3,10 +3,9 @@
 ###
 
 <p align="left">My name is Akash. and I'm a Frontend Developer from Delhi, India.</p>
-**You can ping me on Twitter - <a href="https://twitter.com/codeguyakash">@codeguyakash</a>**
+You can ping me on Twitter - <a href="https://twitter.com/codeguyakash">@codeguyakash</a>
 
 ###
-
 <h2 align="left">About me</h2>
 
 ###
