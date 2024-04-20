@@ -1,4 +1,4 @@
-<img src="https://codeguyakash.github.io/akash/icons/giphy.gif" height="100" alt="html5 logo"  />
+<img src="https://codeguyakash.github.io/akash/icons/giphy.gif" height="80" alt="hey-logo"  />
 
 # Hey, My name is <a href="https://twitter.com/codeguyakash">Akash</a> and I'm a Software Developer.
 
