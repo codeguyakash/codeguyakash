@@ -12,16 +12,16 @@
 
 ## Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin:1px 5px;" height="30" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin:1px 5px;" height="30" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin:1px 5px;" height="30" alt="bootstrap_logo"  />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" style="margin:1px 5px;" height="30" alt="tailwindcss_logo"  />
-<img src="https://cdn.simpleicons.org/mui/007FFF" style="margin:1px 5px;" height="30" alt="materialui_logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin:1px 5px;" height="30" alt="javascript_logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="margin:1px 5px;" height="30" alt="nextjs_logo"  />
-<img src="https://skillicons.dev/icons?i=mongodb" style="margin:1px 5px;" height="30" alt="mongodb_logo"  />
-<img src="https://skillicons.dev/icons?i=express" style="margin:1px 5px;" height="30" alt="express-logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin:1px 5px;" height="30" alt="react-logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin:1px 5px;" height="30" alt="nodejs_logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin:1px 5px;" height="30" alt="git-logo"  />
-<img src="https://skillicons.dev/icons?i=github" style="margin:1px 5px;" height="30" alt="github_logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30" alt="bootstrap_logo"  />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" alt="tailwindcss_logo"  />
+<img src="https://cdn.simpleicons.org/mui/007FFF" width="30" height="30" alt="materialui_logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="javascript_logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="nextjs_logo"  />
+<img src="https://skillicons.dev/icons?i=mongodb" width="30" height="30" alt="mongodb_logo"  />
+<img src="https://skillicons.dev/icons?i=express" width="30" height="30" alt="express-logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="react-logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="nodejs_logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="git-logo"  />
+<img src="https://skillicons.dev/icons?i=github" width="30" height="30" alt="github_logo"  />
