@@ -1,14 +1,13 @@
 <img src="https://codeguyakash.github.io/akash/icons/giphy.gif" height="100" alt="html5 logo"  />
 
-# Hey, My name is <a href="https://twitter.com/codeguyakash">Akash</a> and I'm a Software Developer.
+# Hey, My name is <a href="https://twitter.com/codeguyakash">Akash (codeguyakash)</a> and I'm a Software Developer.
 
-### You can ping me on Twitter - <a href="https://twitter.com/codeguyakash">@codeguyakash</a>
+### About me
+- I'm a skilled Full Stack Developer with expertise in ReactJs and experience building responsive, user-friendly websites using ReactJs, and Tailwind-CSS.
+- I also master the MERN stack (MongoDB, Express, React, Node.js).
 
-## About me
 
-- **💡 Specialization:** JavaScript & React, JavaScript is my playground, and React is my go-to toolkit. I believe in the power of user-friendly interfaces and seamless user experiences.
-
-- 📚 I'm currently learning Full Stack Development.
+#### You can ping me on Twitter - <a href="https://twitter.com/codeguyakash">@codeguyakash</a>
 
 ## Tech Stack
 
