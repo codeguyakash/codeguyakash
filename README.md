@@ -28,29 +28,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25" alt="git-logo">
     <img src="https://skillicons.dev/icons?i=github" width="25" height="25" alt="github_logo">
 </div>
-
-## Projects
-
-<div class="repo-container" id="repo-container">
-</div>
-
-<script>
-
-    const repoContainer = document.getElementById('repo-container');
-    async function fetchRepositories() {
-        const response = await fetch(`https://api.github.com/users/codeguyakash/repos`);
-        const repos = await response.json();
-
-        repos.forEach(repo => {
-            const repoDiv = document.createElement('div');
-            repoDiv.classList.add('repo');
-            repoDiv.innerHTML = `
-                <h3><a href="${repo.html_url}" target="_blank">${repo.name}</a></h3>
-                <p>${repo.description || 'No description provided'}</p>
-            `;
-            repoContainer.appendChild(repoDiv);
-        });
-    }
-
-    fetchRepositories();
-</script>
