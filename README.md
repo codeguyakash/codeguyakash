@@ -6,8 +6,9 @@
 
 ## About me
 
-- **💡 Specialization:** JavaScript & React, JavaScript is my playground, and React is my go-to toolkit. I believe in the power of user-friendly interfaces and seamless user experiences.
-- 📚 I'm currently learning Full Stack Development.
+- 💼 I'm Freelance Full Stack Developer.
+- 📚 Activity mastering MERN.
+
 
 ## Tech Stack
 
