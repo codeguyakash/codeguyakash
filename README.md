@@ -1,7 +1,3 @@
-<div style="margin:0 0 -30px -20px;">
-<img src="https://codeguyakash.github.io/akash/icons/giphy.gif" height="80"  alt="hey-logo"  />
-</div>
-
 ## Hey, My name is <a href="https://twitter.com/codeguyakash">Akash (codeguyakash)</a> and I'm a Software Developer.
 
 #### You can ping me on Twitter - <a href="https://twitter.com/codeguyakash">@codeguyakash</a>
