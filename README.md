@@ -1,6 +1,8 @@
-## Hey, My name is <a href="https://twitter.com/codeguyakash">Akash (codeguyakash)</a> and I'm a Software Developer.
+## Hey! 👋 My name is <a href="https://twitter.com/codeguyakash">Akash</a>
+### I'm a Software Developer.
 
-#### You can ping me on Twitter - <a href="https://twitter.com/codeguyakash">@codeguyakash</a>
+#### You can ping me on Twitter 
+   <a href="https://twitter.com/codeguyakash">@codeguyakash</a>
 
 ## About me
 
