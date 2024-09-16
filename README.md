@@ -2,8 +2,8 @@
 ### I'm a Software Developer.
 
 #### You can ping me on Twitter 
-  **🕊 <a href="https://twitter.com/codeguyakash">@codeguyakash</a>**
-  
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="18" height="18"><a href="https://twitter.com/codeguyakash"> @codeguyakash</a>
+      
 ## About me
 - 💼 **Experienced Freelance Full Stack Developer** specializing in the **MERN Stack**.
 - 🚀 Focused on becoming an **Expert Software Development Engineer (SDE)**.
