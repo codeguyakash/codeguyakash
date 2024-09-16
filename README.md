@@ -5,10 +5,10 @@
    <a href="https://twitter.com/codeguyakash">@codeguyakash</a>
 
 ## About me
-
-- 💼 I'm Experienced Freelance Full Stack Developer.
-- 📚 Activity mastering MERN.
-
+- 💼 **Experienced Freelance Full Stack Developer** specializing in the **MERN Stack**.
+- 🚀 Focused on becoming an **Expert Software Development Engineer (SDE)**.
+- 💡 Passionate about building innovative **web applications**.
+  
 ## Tech Stack
 
 <div style="display: flex; align-items: center; justify-content: start; gap:10px;">
