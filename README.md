@@ -26,3 +26,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25" alt="git-logo">
     <img src="https://skillicons.dev/icons?i=github" width="25" height="25" alt="github_logo">
 </div>
+
+## Activity
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codeguyakash&radius=16&theme=react&area=true&hide_border=true"
+    alt="activity-graph" 
+    style="width: 100%; height: 200px; display: block;" 
+  />
+</div>
