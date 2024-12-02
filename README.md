@@ -15,6 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25" alt="html5 logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25" alt="css3 logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25" height="25" alt="bootstrap_logo">
+    <img src="https://cdn.simpleicons.org/angular/DD0031" width="25" height="25" alt="bootstrap_logo">
     <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="25" height="25" alt="tailwindcss_logo">
     <img src="https://cdn.simpleicons.org/mui/007FFF" width="25" height="25" alt="materialui_logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" alt="javascript_logo">
