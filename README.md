@@ -5,7 +5,7 @@
 **&#128330;<a href="https://twitter.com/codeguyakash">@codeguyakash</a>**
       
 ## About me
-- 💼 **Experienced Freelance Full Stack Developer** specializing in the **MERN Stack**.
+- 💼 **Experienced Full Stack Developer** <a href="https://github.com/webartsol">@webartsol</a> specializing in the **MERN Stack**.
 - 🚀 Focused on becoming an **Expert Software Development Engineer (SDE)**.
 - 💡 Passionate about building innovative **web applications**.
   
