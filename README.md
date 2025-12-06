@@ -8,9 +8,9 @@
 - 💼 **Experienced Full Stack Developer** at **<a href="https://www.webartsol.com/">@Webartsol</a>**
 - 🚀 Focused on becoming an **Expert Software Development Engineer (SDE)**.
 - 💡 Passionate about building innovative **web applications**.
-
-<a href="https://github.com/sponsors/codeguyakash" title="Sponsor Nate Moore"><img src="https://raw.githubusercontent.com/itsakssh/natemoo-re/8b6c97e94cf2a17c2990de84c78f5e02d1f74c49/assets/sponsor.svg" width="100" height="34" aria-hidden="true"></a>
-  
+<!-- 
+#### <a href="https://github.com/sponsors/codeguyakash" title="Sponsor Akash (codeguyakash)" style="color:white;" >Sponsor ♡ </a>
+-->
 ## Tech Stack
 
 <div style="display: flex; align-items: center; justify-content: start; gap:10px;">
