@@ -9,7 +9,7 @@
 - 🚀 Focused on becoming an **Expert Software Development Engineer (SDE)**.
 - 💡 Passionate about building innovative **web applications**.
 
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+<a href="https://github.com/sponsors/codeguyakash" title="Sponsor Nate Moore"><img src="https://raw.githubusercontent.com/itsakssh/natemoo-re/8b6c97e94cf2a17c2990de84c78f5e02d1f74c49/assets/sponsor.svg" width="94" height="28" aria-hidden="true"></a>
   
 ## Tech Stack
 
