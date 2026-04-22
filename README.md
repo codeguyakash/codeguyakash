@@ -14,19 +14,7 @@
 ## Tech Stack
 
 <div style="display: flex; align-items: center; justify-content: start; gap:10px;">
-* HTML5
-* CSS3
-* Bootstrap
-* Angular
-* Tailwind CSS
-* Material UI
-* JavaScript
-* Next.js
-* MongoDB
-* Express.js
-* React.js
-* Node.js
-* Git
-* GitHub
+HTML5 • CSS3 • Bootstrap • Angular • Tailwind CSS • JavaScript • Next.js
+• MongoDB • Express.js • React.js • Node.js • Git • GitHub
 </div>
 
