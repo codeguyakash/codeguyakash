@@ -10,7 +10,7 @@
 
 ### Now
 
-- Building and shipping at **@intelloworks**
+- Building and shipping at **<a href="https://github.com/intelloworks">@Intelloworks</a>**
 - Deepening backend + system design thinking
 - Exploring practical AI integrations in web products
 
