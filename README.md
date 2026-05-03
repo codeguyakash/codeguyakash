@@ -1,22 +1,30 @@
-## Hey! 👋 My name is <a href="https://twitter.com/codeguyakash">Akash</a>
-### I'm a Software Developer.
+<h1 align="center2">Mr. Akash</h1>
+<p align="center2">
+  Software Engineer · Full Stack (MERN)
+</p>
 
-#### You can ping me on Twitter 
-**&#128330;<a href="https://twitter.com/codeguyakash">@codeguyakash</a>**
-      
-## About me
-- 💼 **Experienced Full Stack Developer** at **<a href="https://www.webartsol.com/">@Webartsol</a>**
-- 🚀 Focused on becoming an **Expert Software Development Engineer (SDE)**.
-- 💡 Passionate about building innovative **web applications**.
-<!-- 
-#### <a href="https://github.com/sponsors/codeguyakash" title="Sponsor Akash (codeguyakash)" style="color:white;" >Sponsor ♡ </a>
--->
-## Tech Stack
+<p align="center2">
+  I build fast, scalable web products with clean architecture and real-world impact. <br/>
+  Currently focused on shipping better systems, not just features.
+</p>
 
-<div style="display: flex; align-items: center; justify-content: start; gap:10px;">
-HTML5 • CSS3 • Bootstrap • Angular • Tailwind CSS • JavaScript • Next.js
-• MongoDB • Express.js • React.js • Node.js • Git • GitHub
-</div>
+### Now
 
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+- Building and shipping at **@intelloworks**
+- Deepening backend + system design thinking
+- Exploring practical AI integrations in web products
 
+
+### Education
+
+- MCA (in progress) — IGNOU
+
+
+### Stack I Work With
+
+
+- Frontend   : React · Next.js · Angular · Tailwind
+- Backend    : Node.js · Express
+- Database   : SQL · MySQL · MongoDB
+- Core       : TypeScript · System Design · APIs
+- Tools      ; Git · GitHub · Postman
