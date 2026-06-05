@@ -17,7 +17,7 @@
 
 ### Education
 
-- MCA (in progress) — IGNOU
+- MCA (in progress)
 
 
 ### Stack I Work With
