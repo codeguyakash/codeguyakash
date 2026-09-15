@@ -11,17 +11,6 @@ Currently focused on shipping better systems, not just features.
 - Deepening backend + system design thinking
 - Exploring practical AI integrations in web products
 
-### Education
-
-- MCA (in progress)
-
-### Stack I Work With
-
-- **Frontend**: React · Next.js · Angular · Tailwind
-- **Backend**: Node.js · Express
-- **Database**: SQL · MySQL · MongoDB
-- **Core**: TypeScript · System Design · APIs
-- **Tools**: Git · GitHub · Postman
 
 ### Products and Apps
 
@@ -48,4 +37,19 @@ Currently focused on shipping better systems, not just features.
 
 #### NPM Packages
 
-- **[keepalive-server](https://www.npmjs.com/package/keepalive-server)** — A lightweight Node.js server utility for keeping services alive and handling health checks.
+- **[Keep Server Alive](https://www.npmjs.com/package/keepalive-server)** — A lightweight Node.js server utility for keeping services alive and handling health checks.
+
+### Education
+
+- MCA (in progress)
+
+### Stack I Work With
+
+- **Frontend**: React · Next.js · Angular · Tailwind
+- **Backend**: Node.js · Express
+- **Database**: SQL · MySQL · MongoDB
+- **Core**: TypeScript · System Design · APIs
+- **Tools**: Git · GitHub · Postman
+
+#### Ping Me
+[Email : to@codeguyakash.in](mailto:to@codeguyakash.in) · [X](https://x.com/codeguyakash)
