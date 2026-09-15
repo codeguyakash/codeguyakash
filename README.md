@@ -52,4 +52,4 @@ Currently focused on shipping better systems, not just features.
 - **Tools**: Git · GitHub · Postman
 
 #### Ping Me
-[Email : to@codeguyakash.in](mailto:to@codeguyakash.in) · [X](https://x.com/codeguyakash)
+[to@codeguyakash.in](mailto:to@codeguyakash.in) · [X](https://x.com/codeguyakash)
