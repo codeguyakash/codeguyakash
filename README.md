@@ -1,17 +1,13 @@
-<h1 >Akash</h1>
+# Akash
 
-<p >
-  Software Engineer · Full Stack (MERN)
-</p>
+Software Engineer · Full Stack (MERN)
 
-<p >
-  I build fast, scalable web products with clean architecture and real-world impact. <br/>
-  Currently focused on shipping better systems, not just features.
-</p>
+I build fast, scalable web products with clean architecture and real-world impact.
+Currently focused on shipping better systems, not just features.
 
 ### Now
 
-- Building and shipping at **<a href="https://github.com/intelloworks">@Intelloworks</a>**
+- Building and shipping at **[@Intelloworks](https://github.com/intelloworks)**
 - Deepening backend + system design thinking
 - Exploring practical AI integrations in web products
 
@@ -21,11 +17,11 @@
 
 ### Stack I Work With
 
-- Frontend   : React · Next.js · Angular · Tailwind
-- Backend    : Node.js · Express
-- Database   : SQL · MySQL · MongoDB
-- Core       : TypeScript · System Design · APIs
-- Tools      : Git · GitHub · Postman
+- **Frontend**: React · Next.js · Angular · Tailwind
+- **Backend**: Node.js · Express
+- **Database**: SQL · MySQL · MongoDB
+- **Core**: TypeScript · System Design · APIs
+- **Tools**: Git · GitHub · Postman
 
 ### Products and Apps
 
