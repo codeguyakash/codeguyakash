@@ -39,10 +39,6 @@ Currently focused on shipping better systems, not just features.
 
 - **[Keep Server Alive](https://www.npmjs.com/package/keepalive-server)** — A lightweight Node.js server utility for keeping services alive and handling health checks.
 
-### Education
-
-- MCA (in progress)
-
 ### Stack I Work With
 
 - **Frontend**: React · Next.js · Angular · Tailwind
