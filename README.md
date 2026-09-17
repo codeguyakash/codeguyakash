@@ -16,6 +16,9 @@ Currently focused on shipping better systems, not just features.
 
 #### Android Apps
 
+
+
+- **[ScrollMind Screen Time & Reels](https://play.google.com/store/apps/details?id=app.codeguyakash.scrollmind)** — Stop Mindless Doomscrolling & Take Back Control of Your Time. *(In progress)*
 - **[Relay](https://play.google.com/store/apps/details?id=app.codeguyakash.relay)** — Secure offline messaging with nearby devices using Bluetooth. *(In progress)*
 - **[RAM Booster & Junk Cleaner](https://play.google.com/store/apps/details?id=in.codeguyakash.booster)** — A utility app for cleaning junk files and helping optimize device storage and performance.
 - **[App Permissions Explorer](https://play.google.com/store/apps/details?id=in.codeguyakash.permissionsexplorer)** — Audit and explore all permissions of installed apps, including hidden ones.
