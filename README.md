@@ -26,7 +26,7 @@ Currently focused on shipping better systems, not just features.
 - **[AutoAssist – Auto SMS Reply](https://play.google.com/store/apps/details?id=app.codeguyakash.assist)** — Automatically responds to SMS messages based on configurable rules and situations. *(In progress)*
 - **[Drop Coffee](https://play.google.com/store/apps/details?id=app.codeguyakash.dropcoffee)** — Catch coffee, dodge milk, and chase a high score. *(In progress)*
 
-### Available of my Ndroid Store
+### Available of Ndroid Store
 
 - **[Ndroid Store](https://ndroid.store)** — Ndroid Store is an web-based marketplace and directory for discovering and downloading Android apps and games.
 
